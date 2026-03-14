@@ -11,3 +11,4 @@ COPY ./docker/entrypoint.sh /
 
 ENTRYPOINT ["/entrypoint.sh"]
 CMD ["unifi-cam-proxy"]
+# OpenClaw Docker
